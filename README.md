@@ -33,7 +33,7 @@
 <tbody>
 <tr>
     <td>Samuel</td>
-    <td> 14 </td>
+    <td> ... </td>
     <td>Ka@gmail.com</td>
     <tr>
   <tbody>
